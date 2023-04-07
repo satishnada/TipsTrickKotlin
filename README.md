@@ -18,6 +18,8 @@ https://medium.com/@satish.nada98/top-most-kotlin-tips-and-tricks-must-know-ever
 
 ### Pre-requisites ###
 
-* Android studio 4.0+
+* Android Studio Electric Eel
+* MinSdk 24
+* TargetSdk 33
 * Android Build Tools v30.0.2
 * Kotlin 1.4.10
